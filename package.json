@@ -1,0 +1,19 @@
+{
+  "name": "aoi-satoru",
+  "version": "1.0.0",
+  "description": "Azuki Aoi Satoru Website",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennifertieuu/aoi-satoru.git"
+  },
+  "author": "Jennifer Tieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennifertieuu/aoi-satoru/issues"
+  },
+  "homepage": "https://github.com/jennifertieuu/aoi-satoru#readme"
+}
