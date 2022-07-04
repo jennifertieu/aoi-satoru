@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jennifertieuu/aoi-satoru/issues"
   },
-  "homepage": "https://github.com/jennifertieuu/aoi-satoru#readme"
+  "homepage": "https://github.com/jennifertieuu/aoi-satoru#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jsdoc": "^3.6.10"
+  }
 }
