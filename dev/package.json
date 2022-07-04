@@ -1,18 +1,5 @@
 {
-  "name": "my-website",
-  "version": "1.0.0",
-  "description": "Jennifer Tieu Website",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "my-website"
-  },
-  "author": "jennifertieuu",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.0"
-  }
+  "name": "aoi-satoru:dev",
+  "main": "./app.js",
+  "private": true
 }
